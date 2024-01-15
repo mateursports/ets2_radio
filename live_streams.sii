@@ -1,26 +1,18 @@
 SiiNunit
 {
 live_stream_def : _nameless.16e.2790.dbf0 {
- stream_data: 13
+ stream_data: 11
  stream_data[0]: "|* Created by mateursports *|-|-|0"
-
- stream_data[0]: "|* Austria *|-|-|0"
- stream_data[8]: "https://orf-live.ors-shoutcast.at/wie-q2a|Radio Wien||OE|192|0"
-
- stream_data[0]: "|* Germany *|-|-|0"
- stream_data[5]: "http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3|NDR 1 Hannover|Regional|DE|128|0"
- stream_data[6]: "http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3|NDR 2 Niedersachsen|Regional|DE|128|1"
- stream_data[7]: "http://radio-hannover.divicon-stream.net/rhann_livestrea_zqu6-mp3-192|Radio Hannover|Regional|DE|192|0"
- stream_data[4]: "http://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3|Bremen Eins|Regional|DE|128|0"
- stream_data[3]: "https://streaming.fueralle.org/corax_192.mp3|Radio Corax Halle||DE|192|0"
-
- stream_data[0]: "|* Switzerland *|-|-|0"
- stream_data[9]: "https://stream.srg-ssr.ch/m/regi_zentr/mp3_128|Radio SRF 1||SUI|192|1"
-
- stream_data[0]: "|* Ukraine *|-|-|0"
- stream_data[10]: "https://cast.radiogroup.com.ua/avtoradio|Avtoradio Ukraina||UA|128|0"
- stream_data[11]: "https://online.radiobayraktar.ua/RadioBayraktar|Radio Bayraktar||UA|128|1"
- stream_data[12]: "http://radio.talksport.com/stream?aisGetOriginalStream=true|talkSport||UK|128|1"
+ stream_data[1]: "https://orf-live.ors-shoutcast.at/wie-q2a|Radio Wien||OE|192|0"
+ stream_data[2]: "http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3|NDR 1 Hannover|Regional|DE|128|0"
+ stream_data[3]: "http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3|NDR 2 Niedersachsen|Regional|DE|128|1"
+ stream_data[4]: "http://radio-hannover.divicon-stream.net/rhann_livestrea_zqu6-mp3-192|Radio Hannover|Regional|DE|192|0"
+ stream_data[5]: "http://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3|Bremen Eins|Regional|DE|128|0"
+ stream_data[6]: "https://streaming.fueralle.org/corax_192.mp3|Radio Corax Halle||DE|192|0"
+ stream_data[7]: "https://stream.srg-ssr.ch/m/regi_zentr/mp3_128|Radio SRF 1||SUI|192|1"
+ stream_data[8]: "https://cast.radiogroup.com.ua/avtoradio|Avtoradio Ukraina||UA|128|0"
+ stream_data[9]: "https://online.radiobayraktar.ua/RadioBayraktar|Radio Bayraktar||UA|128|1"
+ stream_data[10]: "http://radio.talksport.com/stream?aisGetOriginalStream=true|talkSport||UK|128|1"
 }
 
 }
