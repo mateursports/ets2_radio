@@ -13,8 +13,5 @@ live_stream_def : _nameless.16e.2790.dbf0 {
  stream_data[8]: "https://cast.radiogroup.com.ua/avtoradio|Avtoradio Ukraina||UA|128|0"
  stream_data[9]: "https://online.radiobayraktar.ua/RadioBayraktar|Radio Bayraktar||UA|128|1"
  stream_data[10]: "http://radio.talksport.com/stream?aisGetOriginalStream=true|talkSport||UK|128|1"
- test
- test2
 }
-
 }
